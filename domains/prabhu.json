@@ -1,11 +1,9 @@
 {
-  "description": "Testing for my server",
-  "repo": "https://github.com/prabhu797/samplelogin.git",
   "owner": {
-    "username": "prabhu797",
-    "email": "prabhudesai797@gmail.com"
+    "email": "prabhuls2005@gmail.com",
+    "username": "ls-prabhu"
   },
-  "record": {
-    "A": ["206.1.53.95"]
+  "records": {
+    "CNAME": "ls-prabhu.github.io"
   }
 }

@@ -3,9 +3,8 @@
     "username": "sfinxv",
     "discord": "sfinxv"
   },
-
   "repo": "https://github.com/SFINXVC/sfinxvc.github.io",
-  "record": {
+  "records": {
     "CNAME": "sfinxvc.github.io"
   }
 }

@@ -1,12 +1,11 @@
 {
-  "description": "project page/ portfolio",
-  "repo": "https://github.com/2nvrs/cnvrs",
   "owner": {
-    "username": "2nvrs",
-    "email": "cnvrscnvrscnvrs@gmail.com",
-    "twitter": "projcnvrs"
+    "username": "2nvrs"
   },
-  "record": {
-    "CNAME": "2nvrs.github.io"
+  "records": {
+    "A": ["76.76.21.21"]
+  },
+  "services": {
+    "vercel": "vc-domain-verify=cnvrs.is-a.dev,759e0953091c88d99f57"
   }
 }

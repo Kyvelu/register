@@ -3,10 +3,16 @@
     "username": "wdhdev",
     "email": "william@is-a.dev"
   },
-  "record": {
-    "NS": [
-      "bingo.ns.cloudflare.com",
-      "matias.ns.cloudflare.com"
-    ]
+  "records": {
+    "URL": "https://wharrison.com.au"
+  },
+  "redirect_config": {
+    "custom_paths": {
+      "/github": "https://github.com/wdhdev"
+    },
+    "redirect_paths": true
+  },
+  "services": {
+    "discord": "dh=4e444050c7f0e742327d027ebdf50a39f1203acd"
   }
 }
